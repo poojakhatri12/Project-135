@@ -1,0 +1,14 @@
+.input_class{
+    margin: 5px;
+    border-radius: 5px;
+    width: 20%;
+    border: 4px dashed grey;
+}
+.object_name_label{
+    font-size: 15px;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px white;
+}
+
